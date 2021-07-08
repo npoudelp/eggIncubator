@@ -2,12 +2,8 @@
 
 #include <DHT.h>
 #include <DHT_U.h>
-#define DHTPIN 3         // Pin connected to the DHT sensor
-// Uncomment the type of sensor in use:
-//#define DHTTYPE    DHT11     // DHT 11
+#define DHTPIN 3
 #define DHTTYPE    DHT22     // DHT 22 (AM2302)
-//#define DHTTYPE    DHT21     // DHT 21 (AM2301)
-// See guide for details on sensor wiring and usage:
 
 DHT_Unified dht(DHTPIN, DHTTYPE); 
 
