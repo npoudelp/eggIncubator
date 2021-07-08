@@ -1,5 +1,5 @@
-Transistor: BC548
-Relay: 12V
+Transistor BC548
+Relay 12V 30A Sealed
 Arduino UNO
 DTH 22 Temperature and Humidity sensor
 Arduino keypad shield
@@ -8,4 +8,4 @@ Buzzer
 PCB prototype board
 12V Static DC power supply
 Heating element (50W tungusten bulb used)
-
+Resistor 10K
